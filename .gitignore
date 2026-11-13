@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+.env
+.env.*
+!.env.example
